@@ -1,0 +1,28 @@
+/* Styles for mobile devices */
+@media (max-width: 767px) {
+    .buttonRegister button{
+     width: 100% !important;
+    }
+    .registerTitle{
+        text-align: center;
+    }
+
+ }
+
+
+ .buttonRegister button{
+    background-color: #0aad0a;
+    border: none;
+    padding: 12px 18px;
+    border-radius: 10px;
+    color: white;
+    font-weight: 600;
+    letter-spacing: 1px;
+ }
+
+ .registerTitle{
+    margin-top: 25px;
+    margin-bottom: 25px;
+    color: #0aad0a;
+    font-weight: 600;
+ }
